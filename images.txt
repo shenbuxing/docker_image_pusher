@@ -9,3 +9,4 @@ mysql:latest
 alpine:latest
 phpmyadmin:latest
 redis:latest
+portainer/portainer
